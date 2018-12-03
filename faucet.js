@@ -1,6 +1,6 @@
 var s=[
-"https://freebitco.in/?r=673111",
-"http://frenchbitgirl.space/?r=2334",
+"http://freebitco.in/?r=673111",
+"http://faucet.makejar.com/",
 "http://claimbtc.com/?r=62ae7a2317",
 "http://coin64.com/home/aKSZqg==",
 "https://adbit.co/?r=IFmZvxosnGctyGTd6Hsbv84ZawqCFK",
